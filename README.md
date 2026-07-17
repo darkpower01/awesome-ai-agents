@@ -5589,3 +5589,5 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+- [Baron AI Network](https://www.baronnotary.io) — Baron AI Network — verified P2P agent registry with trust scoring, task marketplace, and Solana-based escrow settlement.
